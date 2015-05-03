@@ -1,0 +1,23 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Mean Stack Walking Skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zwicker/mean.git"
+  },
+  "author": "Emmet Memery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwicker/mean/issues"
+  },
+  "homepage": "https://github.com/zwicker/mean",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2"
+  }
+}
